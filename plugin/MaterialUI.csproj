@@ -19,7 +19,7 @@
 	</PropertyGroup>
 	
 	<PropertyGroup>
-		<DalamudLibPath>$(AppData)/XIVLauncher/addon/Hooks/dev/</DalamudLibPath>
+		<DalamudLibPath>E:\GitHubDesktop\Dalamud 7.3.5.0\bin\Release/</DalamudLibPath>
 	</PropertyGroup>
 	
 	<ItemGroup>
