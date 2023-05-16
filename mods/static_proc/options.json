@@ -1,0 +1,33 @@
+{
+	"author": "Meconate",
+	
+	"author_contact": "Meconate#2761",
+	
+	"name": "Static Proc",
+	
+	"description": "Replaces the ability proc with a glowing static alternative, while also giving an alternative design to the icon highlight frame with a custom color. Ability proc color changed through the main plugin color options.",
+	
+	"color_options": [
+		{
+			"id": "highlight_frame",
+			"name": "Highlight Frame",
+			"default": {
+				"r": 255,
+				"g": 255,
+				"b": 255
+			}
+		}
+		
+	],
+	
+	"penumbra": [
+		{
+			"name": "Macro Gear Icon",
+			"options": {
+				"Show": ["ui/uld/icona_frame"],
+				"Remove": ["ui/uld/icona_frame/option/hide_macro_icon"]
+			}
+		}
+		
+	]
+}
